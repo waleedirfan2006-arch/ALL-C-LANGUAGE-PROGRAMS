@@ -1,3 +1,4 @@
+//This C program generates the Fibonacci series up to 1000 and calculates the sum of all Fibonacci numbers divisible by 3, 5, or 7.
 #include <stdio.h>
 
 int main() {
@@ -22,3 +23,4 @@ int main() {
     return 0;
 }
 //for loop is more efficient and cleaner for this task
+
